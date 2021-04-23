@@ -1,0 +1,28 @@
+.home__container{
+    width: 100%;
+    display: block;
+}
+.home{
+    .home__product-image{
+        width: 100%;
+        max-width: 100%;
+    }
+    .home__product-title{
+        font-family: 'ProximaNova';
+        font-size: 30px;
+        line-height: 30px;
+        text-align: center;
+        padding-top: 17px;
+    }
+    .home__stars{
+        .fas.fa-star{
+            color: #D61043;
+        }
+    }
+    .home__product-price{
+        font-family: 'ProximaNovaBold';
+        font-size: 24px;
+        line-height: 30px;
+        color:#33333A; 
+    }
+}

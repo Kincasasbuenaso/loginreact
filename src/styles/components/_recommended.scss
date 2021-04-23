@@ -1,0 +1,31 @@
+.recommended__container{
+
+    margin: 30px 0;
+
+    .recommended__title{
+        font-family: 'ProximaNova';
+        font-size: 24px;
+        line-height: 24px;
+        color: #263238;
+    }
+
+    .slide-item-detail{
+        padding: 10px 0 0 10px;
+    }
+
+    .slide-product-name{
+        font-family: 'ProximaNova';
+        font-size: 16px;
+        line-height: 20px;
+        color: #263238;
+        margin-bottom: 2px;
+    }
+
+    .slide-product-price{
+        font-family: 'ProximaNova';
+        font-size: 16px;
+        line-height: 19px;
+        color: #9D9D9D;
+        margin-bottom: 5px;
+    }
+}
